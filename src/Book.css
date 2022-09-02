@@ -1,0 +1,16 @@
+.book {
+  background-color: azure;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
+
+.book h1 {
+  margin-top: 0.5rem;
+  color: blueviolet;
+}
+
+.book h4 {
+  color: brown;
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}
